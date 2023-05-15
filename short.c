@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("%d\n", sizeof(short int));
+	printf("The size of a short integer is: %d\n", sizeof(short int));
 	return (0);
 }
