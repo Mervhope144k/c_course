@@ -7,6 +7,6 @@
 
 int main(void)
 {
-	printf("%d\n", sizeof(int));
+	printf("The size of an integer in my machine is %d\n", sizeof(int));
 	return (0);
 }
