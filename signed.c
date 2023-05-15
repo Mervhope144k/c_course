@@ -7,7 +7,7 @@ int main(void)
 
 	int var2 = INT_MAX;
 
-	printf("range of signed integer is from: %d to %d", var1, var2);
+	printf("The range of a signed integer is from: %d to %d", var1, var2);
 	printf("\n");
 	return (0);
 }
